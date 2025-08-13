@@ -1,0 +1,16 @@
+vehicle-repair-manuals/
+│
+├── Jeep/
+│   ├── Cherokee_XJ/
+│   │   ├── 1996_5speed_4.0L/
+│   │   │   ├── flywheel_clutch_install.md
+│   │   │   ├── transmission_removal.md
+│   │   │   └── ...
+│   └── Wrangler_TJ/
+│       └── ...
+│
+├── Ford/
+│   └── F150/
+│       └── ...
+│
+└── README.md
